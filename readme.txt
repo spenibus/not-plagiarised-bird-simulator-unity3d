@@ -1,4 +1,6 @@
 Not Plagiarised Bird Simulator
+http://spenibus.net
+
 
 This is a small game built with unity3d
 
